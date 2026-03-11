@@ -34,3 +34,19 @@ Machine Learning
         ▼
 Dashboards
 (Tableau / Power BI)
+
+Phase 1 - Event Tracking Plan (Final)
+
+Our tracking plan:
+
+Event	Purpose
+signup	user acquisition
+login	engagement
+create_project	activation
+create_task	product usage
+complete_task	productivity
+invite_user	collaboration
+upload_file	engagement
+upgrade_plan	revenue
+cancel_subscription	churn
+
