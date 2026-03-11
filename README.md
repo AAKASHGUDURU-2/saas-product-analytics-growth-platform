@@ -48,5 +48,5 @@ complete_task	productivity
 invite_user	collaboration
 upload_file	engagement
 upgrade_plan	revenue
-cancel_subscription	churn
+cancel_subscription	churn 
 
